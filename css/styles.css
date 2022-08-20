@@ -11,6 +11,12 @@ h1{
     color: black;
     text-align: center;
 }
+h2{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    text-align: center;
+
+}
 nav li{
     display: inline-block;
     text-decoration-style: solid;
