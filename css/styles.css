@@ -13,6 +13,8 @@ h1{
 }
 nav li{
     display: inline-block;
+    border: 2px;
+    color: black;
     
 
 }
