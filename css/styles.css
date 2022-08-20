@@ -9,3 +9,8 @@ h1{
 nav li{
     display: inline-block;
 }
+nav a{
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+}
