@@ -33,10 +33,12 @@ nav ul{
 }
 footer{
     text-align: center;
+    padding: 10px;
 }
 .border{
     background-color: lightblue;
-    color: burlywood;
+    color: black;
+    text-decoration-thickness: bold;
     width: 100%%;
     align-content: center;
     
