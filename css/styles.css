@@ -34,3 +34,7 @@ nav ul{
 footer{
     text-align: center;
 }
+.border{
+    background-color: black;
+    color: burlywood;
+}
