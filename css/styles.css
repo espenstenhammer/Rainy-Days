@@ -1,5 +1,5 @@
 body{
-    background-color: lightblue;
+    background-color: white;
     font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
     text-align: center;
     
@@ -28,14 +28,14 @@ nav ul{
 
 }
 .active{
-    background-color: beige;
-    color: blueviolet;
+    background-color: lightblue;
+    color: black;
 }
 footer{
     text-align: center;
 }
 .border{
-    background-color: black;
+    background-color: lightblue;
     color: burlywood;
     width: 100%%;
     align-content: center;
