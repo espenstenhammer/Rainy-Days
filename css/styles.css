@@ -37,4 +37,7 @@ footer{
 .border{
     background-color: black;
     color: burlywood;
+    width: 80%;
+    align-content: center;
+    
 }
