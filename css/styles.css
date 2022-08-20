@@ -2,6 +2,10 @@ body{
     background-color: lightblue;
     font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
     text-align: center;
+    
+}
+image{
+    width: auto;
 }
 h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
