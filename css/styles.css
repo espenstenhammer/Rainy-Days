@@ -1,6 +1,7 @@
 body{
     background-color: lightblue;
     font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
+    text-align: center;
 }
 h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -9,18 +10,20 @@ h1{
 }
 nav li{
     display: inline-block;
+
 }
 nav a{
     color: black;
     text-decoration: none;
     padding: 20px;
-    text-align: center;
+   
 }
 nav a:hover{
     text-decoration: underline;
 }
 nav ul{
     padding: 10px;
+
 }
 .active{
     background-color: beige;
