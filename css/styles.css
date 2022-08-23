@@ -33,8 +33,10 @@ h3{
 h4{ 
     background-color: bisque;
     border: 2px;
+    padding: 10px;
     border-color: black;
-    background-image: url(images/Men.jpg);
+    background-image: url(./images/Men.jpg);
+    height: auto;
 
 }
 nav li{
