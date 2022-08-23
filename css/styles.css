@@ -35,8 +35,8 @@ h4{
     border: 2px;
     padding: 10px;
     border-color: black;
-    background-image: 
-    with: 50%
+    align-items: center;
+    background-image: image(./image/woman.jpg);
 
 }
 nav li{
