@@ -7,21 +7,21 @@ body{
 
 
 h1{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
     color: black;
     text-align: center;
    
    
 }
 h2{ 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
     color: black;
     text-align: center;
     font-size: small;
     
 }
 h3{ 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
     color: red;
     text-align: center;
     font-size: bold;
@@ -31,7 +31,7 @@ h3{
 }
 
 h4{ 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
     background-color: white;
     border: 4px;
     border-color: black;
@@ -41,7 +41,7 @@ h4{
 }
 
 h5{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
     text-align: center;
     font-size: larger;
     border: 4px;
