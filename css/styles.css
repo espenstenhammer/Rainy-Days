@@ -32,6 +32,9 @@ h3{
 
 h4{ 
     background-color: bisque;
+    border: 2px;
+    border-color: black;
+    background-image: url(./images/Men.jpg);
 
 }
 nav li{
