@@ -82,7 +82,8 @@ footer{
     padding: 10px;
 }
 .border{
-    background-color: #94ACBC;
+    background-color: white;
+    border: 4px;
     color: black;
     text-decoration-thickness: bold;
     width: 100%;
