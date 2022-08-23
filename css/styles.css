@@ -25,6 +25,8 @@ h3{
     color: red;
     text-align: center;
     font-size: bold;
+    border: 2px;
+    border-color: black;
 
 }
 
