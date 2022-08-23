@@ -50,7 +50,7 @@ nav ul{
 
 }
 .active{
-    background-color: lightblue;
+    background-color: #94ACBC;
     color: black;
     
 }
@@ -59,7 +59,7 @@ footer{
     padding: 10px;
 }
 .border{
-    background-color: lightblue;
+    background-color: #94ACBC;
     color: black;
     text-decoration-thickness: bold;
     width: 100%;
