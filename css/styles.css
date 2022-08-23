@@ -31,11 +31,11 @@ h3{
 }
 
 h4{ 
-    background-color: bisque;
-    border: 2px;
+    background-color: white;
+    border: 4px;
     padding: 10px;
     border-color: black;
-    font-size: bold;
+    font-size: small;
     
 
 }
