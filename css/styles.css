@@ -11,9 +11,10 @@ h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
     text-align: center;
+    background-image: url(./images/Men.jpg);
   
   
-    
+   
 }
 h2{ 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
