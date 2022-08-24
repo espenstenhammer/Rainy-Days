@@ -5,7 +5,8 @@ body{
     
 }
 
-input[type=text] {
+input[type=text] 
+{
     width: 30%;
     position: left;
     box-sizing: border-box;
@@ -13,7 +14,7 @@ input[type=text] {
     border-radius: 4px;
     font-size: 16px;
     background-color: white;
-    background-image: url('./images/icons8-search-30.jpg');
+    background-image: url('images/icons8-search-30.jpg');
     background-position: 10px 10px; 
     background-repeat: no-repeat;
     padding: 12px 20px 12px 40px;
