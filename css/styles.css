@@ -82,6 +82,7 @@ nav ul{
 }
 footer{
     text-align: center;
+    text-size-adjust: small;
     padding: 2px;
 }
 .border{
