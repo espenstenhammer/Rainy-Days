@@ -78,7 +78,8 @@ nav ul{
 
 }
 .active{
-    background-color: #94ACBC;
+    background-color: 
+    border-color: chocolate;;
     color: black;
    
 }
