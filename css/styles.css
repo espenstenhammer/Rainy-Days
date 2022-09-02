@@ -54,7 +54,7 @@ nav li{
     text-decoration-style: solid;
     border-color: #707070;
     border: 4px;
-    background-color: #94ACBC;
+    background-color: black;
     
 
 }
@@ -78,13 +78,13 @@ nav ul{
 .active{
     background-color: #94ACBC;
     color: black;
-    border: 4px;
+   
 }
 footer{
     text-align: center;
     padding: 10px;
 }
-.menu{
+.border{
     background-color: #94ACBC;
     border: 4px;
     color: black;
