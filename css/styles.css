@@ -89,6 +89,7 @@ footer{
 .border{
     background-color: #94ACBC;
     border: 2px;
+    border-color: chocolate;
     color: black;
     text-decoration-thickness: small;
     align-content: center;
