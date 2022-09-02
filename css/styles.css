@@ -73,6 +73,7 @@ nav a:hover{
 nav ul{
     padding: 10px;
     border: 4px;
+    text-size-adjust: small;
 
 }
 .active{
