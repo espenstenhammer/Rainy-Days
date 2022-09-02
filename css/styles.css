@@ -74,6 +74,7 @@ nav ul{
     padding: 1px;
     border: 4px;
     text-size-adjust: small;
+    border-color: chocolate;
 
 }
 .active{
@@ -89,7 +90,6 @@ footer{
 .border{
     background-color: #94ACBC;
     border: 2px;
-    border-color: chocolate;
     color: black;
     text-decoration-thickness: small;
     align-content: center;
