@@ -78,7 +78,7 @@ nav ul{
 .active{
     background-color: #94ACBC;
     color: black;
-    
+    border: 4px;
 }
 footer{
     text-align: center;
