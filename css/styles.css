@@ -74,7 +74,7 @@ nav ul{
     padding: 1px;
     border: 4px;
     text-size-adjust: small;
-    border-color: chocolate;
+   
     
 
 }
@@ -89,7 +89,7 @@ footer{
     padding: 2px;
 }
 .border{
-    background-color: #94ACBC;
+    background-color: black;
     border: 2px;
     color: black;
     text-decoration-thickness: small;
