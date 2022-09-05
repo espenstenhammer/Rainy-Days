@@ -50,6 +50,14 @@ h5{
 }
 
     
+nav li{
+    display: inline-block;
+    text-decoration-style: solid;
+    border-color: black;
+    background-color: white;
+
+}
+    
 a:link, a:visited {
     background-color: white;
     color: black;
