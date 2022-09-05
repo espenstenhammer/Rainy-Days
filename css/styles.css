@@ -69,7 +69,7 @@ a:link, a:visited {
   
   a:hover, a:active {
     
-    color: lightblue;
+    color: grey;
     text-decoration: underline;
   }
 
