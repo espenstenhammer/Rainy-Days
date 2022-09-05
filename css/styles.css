@@ -60,19 +60,18 @@ nav li{
 a:link, a:visited {
     background-color: white;
     color: black;
-    border: 1px solid black;
+    border: 2px solid green;
     padding: 10px 20px;
     text-align: center;
-    
+    text-decoration: none;
     display: inline-block;
   }
-   
-}
-nav a:hover, .active {
-    text-decoration: underline;
+  
+  a:hover, a:active {
     background-color: green;
     color: white;
-}
+  }
+
 nav ul{
     padding: 1px;
     border: 0px;
