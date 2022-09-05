@@ -52,13 +52,13 @@ nav li{
     display: inline-block;
     text-decoration-style: solid;
     border-color: black;
-    background-color: lightblue;
+    background-color: white;
     
     
 
 }
 a:link, a:visited {
-    background-color: white;
+    background-color: lightblue;
     color: black;
     border: 1px solid black;
     padding: 5px 10px;
