@@ -67,7 +67,10 @@ a:link, a:visited {
     display: inline-block;
   }
   
- 
+  a:hover, a:active {
+    
+    color: white;
+  }
 
 nav ul{
     padding: 1px;
