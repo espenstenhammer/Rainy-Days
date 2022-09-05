@@ -89,9 +89,9 @@ footer{
     padding: 2px;
 }
 .border{
-    background-color: black;
+    background-color: whitesmoke;
     border: 2px;
-    color: black;
+    border-color: black;
     text-decoration-thickness: small;
     align-content: center;
     
