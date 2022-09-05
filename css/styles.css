@@ -50,14 +50,8 @@ h5{
 }
 
     
-nav li{
-    display: inline-block;
-    text-decoration-style: solid;
-    border-color: black;
-    background-color: white;
 
 }
-    
 a:link, a:visited {
     background-color: white;
     color: black;
@@ -68,14 +62,22 @@ a:link, a:visited {
     display: inline-block;
   }
    
-
+}
 nav a:hover, .active {
     text-decoration: underline;
     background-color: green;
     color: white;
 }
+nav ul{
+    padding: 1px;
+    border: 4px;
+    text-size-adjust: small;
+   
+    
 
+}
 
+}
 footer{
     text-align: center;
     text-size-adjust: small;
