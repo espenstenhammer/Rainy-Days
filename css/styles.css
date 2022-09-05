@@ -65,7 +65,7 @@ a:link, a:visited {
 }
 nav a:hover, .active {
     text-decoration: underline;
-    background-color: green;
+    background-color: grey;
     color: white;
 }
 nav ul{
