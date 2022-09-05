@@ -58,7 +58,7 @@ nav li{
 
 }
 a:link, a:visited {
-    background-color: white;
+    background-color: lightblue;
     color: black;
     border: 1px solid black;
     padding: 5px 10px;
