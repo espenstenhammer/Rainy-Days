@@ -89,7 +89,7 @@ footer{
     padding: 2px;
 }
 .border{
-    background-color: whitesmoke;
+    background-color: grey;
     border: 2px;
     border-color: black;
     text-decoration-thickness: small;
