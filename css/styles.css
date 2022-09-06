@@ -81,7 +81,11 @@ ul {
 footer{
     text-align: center;
     text-size-adjust: small;
-    padding: 2px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 .border{
     background-color: #94ACBC;
