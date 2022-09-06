@@ -23,21 +23,21 @@ body{
       }
 
 h1{
-    font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif, Verdana;
     color: black;
     text-align: center;
    
    
 }
 h2{ 
-    font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     color: black;
     text-align: center;
     font-size: small;
     
 }
 h3{ 
-    font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif, Verdana;
     color: red;
     text-align: center;
     font-size: medium;
@@ -47,7 +47,7 @@ h3{
 }
 
 h4{ 
-    font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif, Verdana;
     background-color: white;
     border: 4px;
     border-color: black;
@@ -58,7 +58,7 @@ h4{
 }
 
 h5{
-    font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif, Verdana;
     text-align: center;
     font-size: smaller;
     border: 4px;
