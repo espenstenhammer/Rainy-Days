@@ -2,11 +2,16 @@ body{
     background-color: white;
     font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
     text-align: center;
-    background-image:"./images/RainyDays_Logo.png";
-    background-repeat: no-repeat;
-    background-position: center;
+    
       }
-}
+header [
+    {
+        
+        background-repeat: no-repeat;
+        background-position: right top;
+        margin-right: 200px;
+      }
+]
 
 
 h1{
