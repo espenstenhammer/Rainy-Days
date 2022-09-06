@@ -4,7 +4,9 @@ body{
     text-align: center;
     
 }
-
+header {
+    background-image:images/RainyDays_Logo.png;
+}
 
 h1{
     font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
