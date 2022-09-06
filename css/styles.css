@@ -95,7 +95,7 @@ a:link, a:visited {
 nav ul{
     padding: 1px;
     border: 0px;
-    text-size-adjust: small;
+    text-size-adjust: x-small;
    
     
 
@@ -103,7 +103,7 @@ nav ul{
 
 footer{
     text-align: center;
-    text-size-adjust: small;
+    text-size-adjust: x-small;
     padding: 2px;
 }
 .border{
