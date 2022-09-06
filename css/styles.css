@@ -48,7 +48,7 @@ h5{
     border: 4px;
     border-color: black;
 }
-ul {
+ul, footer {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -81,14 +81,8 @@ ul {
 footer{
     text-align: center;
     text-size-adjust: small;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
+    text-align: center;
+    text-decoration: none;
 }
 .border{
     background-color: #94ACBC;
