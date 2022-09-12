@@ -14,7 +14,7 @@ body{
       }
       .flex-container {
         display: flex;
-        background-color: #94ACBC;
+        background-color: black;
       }
       
       .flex-container > div {
