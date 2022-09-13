@@ -19,8 +19,8 @@ body{
       
       .flex-container > div {
         background-color: white;
-        margin: 2px;
-        padding: 2px;
+        margin: 1px;
+        padding: 1px;
         font-size: 5px;
       }
 
