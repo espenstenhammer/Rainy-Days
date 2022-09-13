@@ -9,9 +9,13 @@ body{
         background-color: white;
         padding: 2px;
         text-align: center;
-        border: 1px;
+        border: 2px;
         border-color: black;
-     
+      }
+      .flex-container {
+        display: flex;
+        background-color: black;
+      }
       
       .flex-container > div {
         background-color: white;
