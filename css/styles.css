@@ -9,7 +9,7 @@ body{
         background-color: white;
         padding: 2px;
         text-align: center;
-        border: 2px;
+        border: 0px;
         border-color: black;
       }
       .flex-container {
