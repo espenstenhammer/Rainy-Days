@@ -79,7 +79,7 @@ nav li{
 a:link, a:visited {
     background-color: white;
     color: black;
-    border: 1px solid black;
+    border: 0px solid black;
     padding: 5px 10px;
     text-align: center;
     text-decoration: none;
