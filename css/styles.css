@@ -23,13 +23,7 @@ body{
         
       }
 
-      main{
-  
-        background:"./images/About.jpg";
-  background-size:cover;
-  height: 600px;
-  position: relative;
-      }
+
       
       .items{
         background:pink;
