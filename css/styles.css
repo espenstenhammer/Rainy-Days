@@ -23,6 +23,22 @@ body{
         
       }
 
+      main{
+  
+        background:url("https://samdal.com/wp-content/uploads/2022/02/Bitihorn.jpg");
+  background-size:cover;
+  height: 600px;
+  position: relative;
+      }
+      
+      .items{
+        background:pink;
+        position: absolute;
+        bottom: 0px;
+        left: 50%;
+        transform: translateX(-50%);
+      }
+      
       .header {
         background-color: white;
         padding: 2px;
