@@ -4,6 +4,24 @@ body{
     text-align: center;
     
       }
+      header{
+        display:flex;
+        justify-content:center;
+       
+      }
+      
+      header div{
+        
+        flex:1;
+        text-align:center;
+        padding: 10px 0px;
+       
+      }
+      
+      .logo{
+        flex:3;
+        
+      }
 
       .header {
         background-color: white;
