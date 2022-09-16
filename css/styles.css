@@ -25,17 +25,17 @@ body{
       }
       
       .flex-item {
-        background: lightblue;
-        padding: 5px;
-        width: auto;
-        height: auto;
-        margin-top: 10px;
-        line-height: 150px;
-        color: white;
-        font-weight: small;
-        font-size: 3em;
-        text-align: center;
-        font-family: 'Open Sans', Arial, Helvetica, sans-serif, Verdana;
+        background: tomato;
+  padding: 5px;
+  width: 200px;
+  height: 150px;
+  margin-top: 10px;
+  line-height: 150px;
+  color: white;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif, Verdana;
       }
       
 
