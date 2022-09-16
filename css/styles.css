@@ -14,7 +14,17 @@ body{
         border: 0px;
         border-color: black;
       }
+      .flex-container {
+        display: flex;
+        background-color: black;
+      }
       
+      .flex-container > div {
+        background-color: white;
+        margin: 1px;
+        padding: 1px;
+        font-size: 5px;
+      }
 
 .h1{
     font-family: 'Open Sans', Arial, Helvetica, sans-serif, Verdana;
