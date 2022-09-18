@@ -25,10 +25,7 @@ body{
         padding: 1px;
         font-size: 5px;
       }
-      .bar {
-        display: flex;
-        align-items: center;
-      }
+      
 
 .h1{
     font-family: 'Open Sans', Arial, Helvetica, sans-serif, Verdana;
