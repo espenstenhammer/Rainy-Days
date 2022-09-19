@@ -7,7 +7,7 @@ body{
       
       .material-icons{
         
-        position: right;
+        object-position: right;
 
       }
       .header {
