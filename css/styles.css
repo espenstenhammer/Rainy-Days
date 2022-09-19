@@ -5,7 +5,9 @@ body{
     
       }
       
-      
+      .material-icons{align-items: flex-end;
+
+      }
       .header {
         background-color: white;
         background-image: cover;
