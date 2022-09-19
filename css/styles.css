@@ -129,12 +129,17 @@ footer{
     box-sizing: border-box;
   }
   
-  input[type=text], select, textarea {
+  input[type=text] {
     width: 100%;
-    padding: 12px;
-    border: 1px solid lightblue;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
     border-radius: 4px;
-    resize: vertical;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
   }
   
 
