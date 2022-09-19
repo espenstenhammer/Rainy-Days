@@ -6,8 +6,8 @@ body{
       }
       
       .material-icons{
-        align-items: flex-end;
-        position: relative;
+        
+        position: right;
 
       }
       .header {
