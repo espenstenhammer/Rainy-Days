@@ -5,7 +5,9 @@ body{
     
       }
       
-      .material-icons{align-items: flex-end;
+      .material-icons{
+        align-items: flex-end;
+        position: relative;
 
       }
       .header {
