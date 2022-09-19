@@ -129,7 +129,7 @@ footer{
     box-sizing: border-box;
   }
   
-  input[type=text] {
+  .input[type=text] {
     width: 100%;
     box-sizing: border-box;
     border: 2px solid #ccc;
