@@ -7,7 +7,7 @@ body{
       
       .material-icons{
         
-        object-position: flex;
+        object-position: relative;
 
       }
       .header {
